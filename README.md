@@ -4,7 +4,7 @@
 
 ## Polina Gridiaeva
 
-I work on data analysis and machine learning for physics: processing and analyzing experimental and simulated data, reconstructing physical quantities from detector signals and building data pipelines for experiments. I’m also interested in applying ML to biological and medical data.
+I work on data analysis and machine learning: processing and analyzing experimental and simulated data, building models to extract physical quantities from it, and setting up data pipelines. I’m also interested in applying ML to biological and medical data.
 
 MSc student in Physics of Data at the University of Padova<br>
 BSc in Applied Mathematics and Physics from Saint Petersburg State University
