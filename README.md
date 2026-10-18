@@ -1,10 +1,10 @@
 <img src="banner.png" alt="Cherenkov ring of a muon on the unrolled wall of a water Cherenkov detector" width="100%">
 
-<sub><i>A muon's Cherenkov ring on the unrolled wall of a water Cherenkov detector. The ring is split across the edges because φ = 0 and φ = 2π are the same place.</i></sub>
+<sub><i>A muon's Cherenkov ring on the unrolled wall of a water Cherenkov detector. 
 
 ## Polina Gridiaeva
 
-I work on machine learning for physics data: reconstructing physical quantities from detector signals, working with simulations and building data pipelines for experiments. I'm also interested in applying ML to biological and medical data.
+I work on data analysis and machine learning for physics: processing and analyzing experimental and simulated data, reconstructing physical quantities from detector signals and building data pipelines for experiments. I’m also interested in applying ML to biological and medical data.
 
 MSc student in Physics of Data at the University of Padova<br>
 BSc in Applied Mathematics and Physics from Saint Petersburg State University
